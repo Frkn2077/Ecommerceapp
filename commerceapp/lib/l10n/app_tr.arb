@@ -1,0 +1,17 @@
+
+{
+    "@@locale": "tr",
+    "appTitle": "E-Ticaret Uygulaması",
+    "welcomeMessage": "cosmora uygulamasına hoşgeldiniz",
+    "home": "Ana Sayfa",
+    "cart": "Sepet",
+    "profile": "Profil",
+    "products": "Ürünler",
+    "save": "Kaydet",
+    "language": "Dil",
+    "name": "Ad Soyad",
+    "email": "E-Posta",
+    "phone": "Telefon",
+    "address": "Adres"
+}
+  

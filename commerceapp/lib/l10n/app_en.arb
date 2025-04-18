@@ -1,0 +1,15 @@
+{
+  "@@locale": "en",
+  "appTitle": "E-Commerce App",
+  "welcomeMessage": "Welcome to the E-commerce App",
+  "home": "Home",
+  "cart": "Cart",
+  "profile": "Profile",
+  "products": "Products",
+  "save": "Save",
+  "language": "Language",
+  "name": "Name",
+  "email": "Email",
+  "phone": "Phone",
+  "address": "Address"
+}
